@@ -1,4 +1,5 @@
 - A web game builded with concepts of DOM manipulation.
 - In this two player can play by choosing their sides.
 - Main logic of this game is if the dice on the left side come up with the bigger number in comparion with right side dice then it will show player 1 wins and if the right side dice come up with the bigger number in comparison to dice on left side then it will show player 2 wins. If both the dice come up with the same value then it will display draw.
-- feel free to do any changes you want feedbacks are most welcomed.
+- feel free to do any changes you want.
+-  feedbacks are most welcomed.
