@@ -10,6 +10,10 @@
 
 }
 
+.player{
+  margin-right: 10px;
+}
+
 body {
   background-color: #393E46;
 }
@@ -30,6 +34,21 @@ p {
 
 img {
   width: 80%;
+}
+
+.btn{
+  margin-top: 35px;
+  border: 2px solid rgb(157, 151, 151);
+  border-radius: 8px;
+  padding: 14px 30px;
+  font-weight: bold;
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+.btn:hover{
+  background-color: rgb(220, 218, 218);
 }
 
 footer {
