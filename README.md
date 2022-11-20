@@ -7,4 +7,4 @@
 ![image2](./images/player-2.png)
 
 ## Draw -
-![image3](./favicon/dice.png)
+![image3](./images/draw.png)
