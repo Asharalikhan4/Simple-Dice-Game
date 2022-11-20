@@ -45,10 +45,11 @@ img {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+  background-color: #52545a;
 }
 
 .btn:hover{
-  background-color: rgb(220, 218, 218);
+  background-color: #5e6168;
 }
 
 footer {
